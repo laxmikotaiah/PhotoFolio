@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kotiphotos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B77EAAC585024837B0A49C5065200E04 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C717D4758FEF49329F99B62FD7A04878 }}
           package: .
